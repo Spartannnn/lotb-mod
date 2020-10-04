@@ -6,13 +6,14 @@ This mod attampts to bring middle earth into minecraft as it's own RPG style exp
 If anyone would like to contribute to the mod please get in contact, we will take any help we can get.
 
 Some long term examples of things we want to implement:
-- A middle earth world type consisting of various regions from middle earth
+- A middle earth world type consisting of various unique regions from middle earth each re-imagined with an immersive minecraft style
 - NPCs that peform realistic tasks and that you can have conversations with and develop complex relationships with
 - Factions that will interact with eachother and have dynamic relationships with eachother
 - Quests and story lines that the player can complete
+- Potential long term skills and levelling up
 - Structure generation that takes it's surrounding context into account when generating features
-- an in depth world generation that is detailed and looks pretty
-- some form of magic system that plays well with the lore as well as possible advancement on redstone tech (mills,cogs,massive doors/gates...)
+- an in depth world generation that is detailed and looks both realistic and pretty
+- some form of magic system that plays well with the lore as well as improvements to brewing/enchanting to give it a more rpg feel and possible advancement on      redstone tech (mills,cogs,massive doors/gates...)
 
 Features currently implented overview:
 + A Middle-Earth World Type
